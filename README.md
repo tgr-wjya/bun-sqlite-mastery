@@ -28,6 +28,6 @@ x hours via [codetime](https://codetime.dev/en/)
 
 ---
 
-prev: [elysia-challenge]([link](https://github.com/tgr-wjya/elysia-challenge)) · next: [guestbook-api]([link](https://github.com/tgr-wjya/guestbook-api))
+prev: [elysia-challenge](https://github.com/tgr-wjya/elysia-challenge) · next: [guestbook-api](https://github.com/tgr-wjya/guestbook-api)
 
 made with ◉‿◉
